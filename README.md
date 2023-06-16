@@ -12,12 +12,13 @@ imei sorgulama
 
 [+] Auto Save ( IMEI NUMARASI KAYITLI )
 
+[+] Auto Save ( ALL )
 
 ![Screenshot 2023-06-16 125135](https://github.com/abboodan/IMEI-Checking-Tool/assets/33934739/4744e4b0-d4f7-45d6-85f5-609be21aa3cc)
 
 ![Screenshot 2023-06-16 125137](https://github.com/abboodan/IMEI-Checking-Tool/assets/33934739/9b4c293a-e41d-44eb-b37f-6d9618d5a2dc)
 
-![Screenshot 2023-06-16 152723](https://github.com/abboodan/IMEI-Checking-Tool/assets/33934739/8c017113-009e-44c6-a2f7-2ab8d2ae4137)
+![Screenshot 2023-06-16 165146](https://github.com/abboodan/IMEI-Checking-Tool/assets/33934739/f15967e7-3f4d-4236-9e55-482e979a0940)
 
 
 ![Screenshot 2023-06-16 125142](https://github.com/abboodan/IMEI-Checking-Tool/assets/33934739/1702022a-4465-43e0-8a1d-24966e7d0aa1)
