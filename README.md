@@ -8,11 +8,11 @@ imei sorgulama
 
 [+] - LogSYS
 
-[+] IMEI Checksum Digit Calculator
+[+] - IMEI Checksum Digit Calculator
 
-[+] Auto Save ( IMEI NUMARASI KAYITLI )
+[+] - Auto Save ( IMEI NUMARASI KAYITLI )
 
-[+] Auto Save ( ALL )
+[+] - Auto Save ( ALL )
 
 ![Screenshot 2023-06-16 125135](https://github.com/abboodan/IMEI-Checking-Tool/assets/33934739/4744e4b0-d4f7-45d6-85f5-609be21aa3cc)
 
