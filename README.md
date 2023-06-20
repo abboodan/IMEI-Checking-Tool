@@ -23,4 +23,5 @@ imei sorgulama
 
 ![Screenshot 2023-06-16 125142](https://github.com/abboodan/IMEI-Checking-Tool/assets/33934739/1702022a-4465-43e0-8a1d-24966e7d0aa1)
 
-![Screenshot 2023-06-16 125201](https://github.com/abboodan/IMEI-Checking-Tool/assets/33934739/b20e9155-ba55-4b28-9be1-1ce9a7f78b72)
+
+![Screenshot 2023-06-20 125411](https://github.com/abboodan/IMEI-Checking-Tool/assets/33934739/25480d12-21d1-4eeb-9ac7-cf6468e91246)
